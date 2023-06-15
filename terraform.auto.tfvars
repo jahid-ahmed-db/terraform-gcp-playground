@@ -16,4 +16,4 @@ master_ipv4_cidr_block = "10.1.0.0/28"
 
 cluster_ipv4_cidr_block = "10.2.0.0/18"
 
-services_ipv4_cidr_block = 10.3.0.0/18"
+services_ipv4_cidr_block = "10.3.0.0/18"
