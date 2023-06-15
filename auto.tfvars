@@ -1,4 +1,4 @@
-project_id = "jahid-network-test"
+project_id = jahid-network-test
 
 region = "us-central1"
 
